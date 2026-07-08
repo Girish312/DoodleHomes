@@ -1,0 +1,2 @@
+C:/Users/varad/Downloads/dh-varad/android/app/.cxx/RelWithDebInfo/5g333z21/x86/CMakeFiles/edit_cache.dir
+C:/Users/varad/Downloads/dh-varad/android/app/.cxx/RelWithDebInfo/5g333z21/x86/CMakeFiles/rebuild_cache.dir
